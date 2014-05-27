@@ -1,0 +1,7 @@
+Argument from Freedom:
+    - 'direct' access to the machine and 'straightforward' mapping to assembly.
+    - lack of garbage collection means total control over memory mapping (blessing and curse)
+
+Argument from Transparency:
+    - no 'runtime' to hide behind.
+    - disassembly easy to access and 'straightforward' to map between C source and generated assembly.
