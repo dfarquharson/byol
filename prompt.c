@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 #include <editline/readline.h>
+// this is how I need to do it on arch
 #include <histedit.h>
 
 int main(int argc, char** argv) {
