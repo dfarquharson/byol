@@ -5,3 +5,11 @@ Argument from Freedom:
 Argument from Transparency:
     - no 'runtime' to hide behind.
     - disassembly easy to access and 'straightforward' to map between C source and generated assembly.
+
+Argument from Lack of Bullshit:
+	- no bullshit.
+	- simple types.
+		(weak typing a plus? doesn't hide reality? or is it just a leaky abstraction?)
+	- basic abstraction of 'lots of memory addresses'
+		(for the record, this is still an abstraction. This is not raw,
+		 arch-specific assembly. However, this is a light-weight abstraction)
