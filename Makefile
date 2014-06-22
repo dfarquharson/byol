@@ -1,2 +1,2 @@
 build:
-	cc -std=c99 -Wall variables.c mpc.c -ledit -lm -o variables
+	cc -std=c99 -Wall functions.c mpc.c -ledit -lm -o functions
